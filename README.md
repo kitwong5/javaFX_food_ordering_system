@@ -21,7 +21,10 @@ src/application/Main.java
 ![image](https://github.com/user-attachments/assets/6fb94847-6932-44bf-a79a-e3d62992c7c1)
 ![image](https://github.com/user-attachments/assets/b47af49c-58b8-4040-85b5-21ef0dd345ee)
 ![image](https://github.com/user-attachments/assets/6aa6f433-9e17-4523-83a2-2f4f2d59e1f1)
+![image](https://github.com/user-attachments/assets/b9e61d60-6dcb-4032-a067-fa2c63dcbb3b)
+![image](https://github.com/user-attachments/assets/0cdc600f-f1df-40a5-8398-0b5f85183115)
 ![image](https://github.com/user-attachments/assets/9f28fc48-65a5-42c8-ad15-e146f03610c3)
+![image](https://github.com/user-attachments/assets/52e1aeca-15e8-417e-9cc5-ef5c65a29035)
 
 
 
