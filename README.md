@@ -17,3 +17,12 @@ Instructions:
 src/application/Main.java
 
 ![image](https://github.com/user-attachments/assets/5eebbf88-ad30-45fb-a890-a971f11e8107)
+![image](https://github.com/user-attachments/assets/0ada2a0b-3182-495b-a296-139db131bfd1)
+![image](https://github.com/user-attachments/assets/6fb94847-6932-44bf-a79a-e3d62992c7c1)
+![image](https://github.com/user-attachments/assets/b47af49c-58b8-4040-85b5-21ef0dd345ee)
+![image](https://github.com/user-attachments/assets/6aa6f433-9e17-4523-83a2-2f4f2d59e1f1)
+![image](https://github.com/user-attachments/assets/9f28fc48-65a5-42c8-ad15-e146f03610c3)
+
+
+
+
