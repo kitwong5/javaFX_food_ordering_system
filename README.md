@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3eec454-ad65-47e9-a1f3-25d621c47369)Instructions:
+Instructions:
 1) Unzipe burrito_king_gui.zip
 2) Open unzipped folder in Eclipse (File -> Open Projects from File System)
 3) Please check the following classpaths are in place. If not, please add following libraries 
